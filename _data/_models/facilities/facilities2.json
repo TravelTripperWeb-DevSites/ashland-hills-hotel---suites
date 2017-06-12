@@ -1,6 +1,6 @@
 {
-    "name": "The Restaurant",
-    "description":  "Sample local specialties at our restaurant. Dining room opens from 6am to 11pm and with 24 hour room service available.",
-    "order": 1,
-    "hidden": false
+  "name": "Business, Other Amenities",
+  "description": " <br />Featured amenities include a business center, complimentary newspapers in the lobby, and dry cleaning/laundry services. Planning an event in Ashland? This hotel has 10900 square feet (1013 square meters) of space consisting of a conference center and meeting rooms. Free self parking is available onsite.",
+  "order": 2,
+  "hidden": false
 }
